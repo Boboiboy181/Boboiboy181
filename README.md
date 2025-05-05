@@ -44,9 +44,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Boboiboy181/count.svg?"  />
-</div>
+<h2 align="left">Get in Touch</h2>
 
 ###
 
@@ -60,3 +58,11 @@
 </div>
 
 ###
+
+<h2 align="left">Profile views</h2>
+
+###
+
+<div>
+  <img src="https://profile-counter.glitch.me/Boboiboy181/count.svg?"  />
+</div>
