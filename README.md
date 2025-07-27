@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 11/2022.<br>📚 I'm currently learning Anime.js and Go language.<br>🎯 Goals: Full-snack developer.<br>🎲 Fun fact: Big fan of Manchester United.</p>
+<p align="left">✨ Creating bugs since 11/2022.<br>🎯 Goals: Full-snack developer.<br>🎲 Fun fact: Big fan of Manchester United.</p>
 
 ###
 
@@ -55,14 +55,4 @@
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=daogiahai18@gmail.com&su=Hello&body=I+would+like+to+connect+with+you.&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h2 align="left">Profile views</h2>
-
-###
-
-<div>
-  <img src="https://profile-counter.glitch.me/Boboiboy181/count.svg?"  />
 </div>
